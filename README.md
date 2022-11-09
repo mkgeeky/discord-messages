@@ -10,3 +10,9 @@
 
 ## Request
 * You can request other languages in [issues](https://github.com/mkgeeky/discord-messages/issues)
+
+#### Contact mkgeeky
+###### Web: https://mkgeeky.xyz
+###### Git: https://github.com/mkgeeky/
+###### Mail: contact@mkgeeky.xyz
+###### Discord: https://discord.gg/tv6ZQ7wzt7
