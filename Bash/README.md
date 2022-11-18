@@ -4,7 +4,8 @@
 
 ## Installation
 * Clone repo to your own server `git clone ttps://github.com/mkgeeky/discord-messages.git`
-* Rename discode_sample.sh to discode.sh `mv discode_sample.sh discode.sh`
+* Rename discode_sample.sh to discode.sh `mv Bash/discode_sample.sh Bash/discode.sh`
+* Edit `Bash/discode.sh` with your API URL(s)
 * Make discode.sh executeable `chmod +x FullPathTo/discode.sh`
 * Edit discode.sh with Discode Webhook URL
 
