@@ -4,9 +4,11 @@
 # Languages
 ## Available
 * [Bash](https://github.com/mkgeeky/discord-messages/tree/main/Bash)
+* [PHP](https://github.com/mkgeeky/discord-messages/tree/main/php)
 
 ## Comming
-* [PHP](https://github.com/mkgeeky/discord-messages/tree/main/php)
+
+## Requested
 
 ## Request
 * You can request other languages in [issues](https://github.com/mkgeeky/discord-messages/issues)
