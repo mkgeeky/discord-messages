@@ -6,7 +6,7 @@
 * [Bash](https://github.com/mkgeeky/discord-messages/tree/main/Bash)
 
 ## Comming
-* PHP
+* [PHP](https://github.com/mkgeeky/discord-messages/tree/main/php)
 
 ## Request
 * You can request other languages in [issues](https://github.com/mkgeeky/discord-messages/issues)
