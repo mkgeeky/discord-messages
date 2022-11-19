@@ -7,6 +7,7 @@
 * [PHP](https://github.com/mkgeeky/discord-messages/tree/main/php)
 
 ## Comming
+* python
 
 ## Requested
 
