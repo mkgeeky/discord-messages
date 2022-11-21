@@ -5,9 +5,10 @@
 ## Available
 * [Bash](https://github.com/mkgeeky/discord-messages/tree/main/Bash)
 * [PHP](https://github.com/mkgeeky/discord-messages/tree/main/php)
-
+* [python](https://github.com/mkgeeky/discord-messages/tree/main/python)
+* 
 ## Comming
-* python
+
 
 ## Requested
 
